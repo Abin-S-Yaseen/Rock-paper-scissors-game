@@ -1,4 +1,9 @@
 # Rock-paper-scissors-game
-calm down...work is on progress...
-Will upload soon
+
+This is a Rock Paper Scissors game !!!
+
+It has some catchy user interfaces and enjoyment is
+100% guaranteed 😉
+
+
 
