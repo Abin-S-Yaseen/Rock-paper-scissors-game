@@ -8,5 +8,8 @@ It has some catchy user interfaces and enjoyment is
 Languages used :
 Python🐍
 
+External Libraries used :
+Tkinter📑
+
 
 
