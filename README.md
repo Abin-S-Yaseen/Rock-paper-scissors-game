@@ -2,8 +2,7 @@
 
 This is a Rock Paper Scissors game !!!
 
-It has some catchy user interfaces and enjoyment is
-100% guaranteed 😉
+Its catchy user interface guarantees 100% enjoyment😉
 
 Languages used :
 Python🐍
