@@ -10,7 +10,7 @@ Python🐍
 External Libraries used :
 Tkinter📑
 
-Oops looks like there is more work to do !!!
+Oops looks like there is more work to do 
 
 
 
