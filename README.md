@@ -8,7 +8,7 @@ Languages used :
 Python🐍
 
 External Libraries used :
-Tkinter📑, Pillow
+Tkinter📑, Pillow(PILL)
 
 Oops looks like there is more work to do 
 
