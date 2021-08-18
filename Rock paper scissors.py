@@ -12,3 +12,10 @@ root.maxsize(900,650)
 root.minsize(900,580)
 root.configure(background='#9999FF')
 root.title('Rock paper scissors')
+
+# Initial score values
+user_score = 0
+sys_score = 0
+
+# Main game execution function
+def play_game(user_selection):
