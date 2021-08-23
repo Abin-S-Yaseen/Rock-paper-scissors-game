@@ -19,3 +19,10 @@ sys_score = 0
 
 # Main game execution function
 def play_game(user_selection):
+    
+    # Choice of the computer
+    choices = ['rock','paper','scissors']
+    choice = random.choice(choices)
+
+    global user_score
+    global sys_score
