@@ -26,3 +26,12 @@ def play_game(user_selection):
 
     global user_score
     global sys_score
+
+    # Various conditions that happen in the game
+    if user_selection == 'rock':
+
+        if choice == 'rock':
+            sys_rock_img.config(bg='white')
+            sys_paper_img.config(bg='#9999FF')
+            sys_scissors_img.config(bg='#9999FF')
+
