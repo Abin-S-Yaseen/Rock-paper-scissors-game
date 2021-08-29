@@ -51,3 +51,12 @@ def play_game(user_selection):
         user_scissors_img.config(bg='#9999FF')
         user_rock_img.config(bg='white')
 
+
+    if user_selection == 'paper':
+
+        if choice == 'rock':
+            user_score += 1
+            sys_rock_img.config(bg='white')
+            sys_paper_img.config(bg='#9999FF')
+            sys_scissors_img.config(bg='#9999FF')
+
