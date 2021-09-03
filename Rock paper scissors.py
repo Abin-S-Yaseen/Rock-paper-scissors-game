@@ -77,3 +77,9 @@ def play_game(user_selection):
 
     if user_selection == 'scissors':
 
+        if choice == 'rock':
+            sys_score += 1
+            sys_rock_img.config(bg='white')
+            sys_paper_img.config(bg='#9999FF')
+            sys_scissors_img.config(bg='#9999FF')
+
