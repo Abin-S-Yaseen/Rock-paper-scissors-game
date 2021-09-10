@@ -97,3 +97,12 @@ def play_game(user_selection):
         user_rock_img.config(bg='#9999FF')
         user_paper_img.config(bg='#9999FF')
         user_scissors_img.config(bg='white')
+
+    sys_score_value.configure(text=sys_score)
+    user_score_value.configure(text=user_score)
+
+
+# importing system images
+sys_rock_image = ImageTk.PhotoImage(Image.open('Images/rock.png'))
+sys_paper_image = ImageTk.PhotoImage(Image.open('Images/paper.png'))
+sys_scissors_image = ImageTk.PhotoImage(Image.open('Images/scissors.png'))
