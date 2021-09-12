@@ -106,3 +106,9 @@ def play_game(user_selection):
 sys_rock_image = ImageTk.PhotoImage(Image.open('Images/rock.png'))
 sys_paper_image = ImageTk.PhotoImage(Image.open('Images/paper.png'))
 sys_scissors_image = ImageTk.PhotoImage(Image.open('Images/scissors.png'))
+
+# importing user images
+user_rock_image = ImageTk.PhotoImage(Image.open('Images/rock-user.png'))
+user_paper_image = ImageTk.PhotoImage(Image.open('Images/paper-user.png'))
+user_scissors_image = ImageTk.PhotoImage(Image.open('Images/scissors-user.png'))
+
