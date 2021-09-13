@@ -116,3 +116,7 @@ user_scissors_image = ImageTk.PhotoImage(Image.open('Images/scissors-user.png'))
 sys_rock_img = Label(root,image=sys_rock_image,bg='#9999FF',relief=GROOVE)
 sys_rock_img.place(relx=0.05,rely=0.078)
 sys_paper_img = Label(root,image=sys_paper_image,bg='#9999FF',relief=GROOVE)
+sys_paper_img.place(relx=0.05,rely=0.381)
+sys_scissors_img = Label(root,image=sys_scissors_image,bg='#9999FF',relief=GROOVE)
+sys_scissors_img.place(relx=0.05,rely=0.686)
+
