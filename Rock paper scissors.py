@@ -112,3 +112,7 @@ user_rock_image = ImageTk.PhotoImage(Image.open('Images/rock-user.png'))
 user_paper_image = ImageTk.PhotoImage(Image.open('Images/paper-user.png'))
 user_scissors_image = ImageTk.PhotoImage(Image.open('Images/scissors-user.png'))
 
+# showing system images on screen as Label
+sys_rock_img = Label(root,image=sys_rock_image,bg='#9999FF',relief=GROOVE)
+sys_rock_img.place(relx=0.05,rely=0.078)
+sys_paper_img = Label(root,image=sys_paper_image,bg='#9999FF',relief=GROOVE)
