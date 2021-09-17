@@ -122,3 +122,5 @@ sys_scissors_img.place(relx=0.05,rely=0.686)
 
 # showing user images on screen as Button
 user_rock_img = Button(root,image=user_rock_image,bg='#9999FF',relief=GROOVE,command=lambda:play_game('rock'))
+user_rock_img.place(relx=0.71,rely=0.078)
+user_paper_img = Button(root,image=user_paper_image,bg='#9999FF',relief=GROOVE,command=lambda:play_game('paper'))
