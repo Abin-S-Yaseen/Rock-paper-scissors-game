@@ -131,3 +131,7 @@ user_scissors_img.place(relx=0.71,rely=0.686)
 # showing other components on the screen
 sys_label = Label(root,text='COMPUTER',font=('Courier',15,'bold'),bg='#9999FF',fg='white')
 sys_label.place(relx=0.105,rely=0.03)
+user_label = Label(root,text='YOU',font=('Courier',15,'bold'),bg='#9999FF',fg='white')
+user_label.place(relx=0.8,rely=0.03)
+score_head_label = Label(root,text='SCORE  BOARD',font=('Ubuntu',15),width=17,bg='white',relief=GROOVE)
+score_head_label.place(relx=0.391,rely=0.425)
