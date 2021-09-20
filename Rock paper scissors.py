@@ -127,3 +127,7 @@ user_paper_img = Button(root,image=user_paper_image,bg='#9999FF',relief=GROOVE,c
 user_paper_img.place(relx=0.71,rely=0.381)
 user_scissors_img = Button(root,image=user_scissors_image,bg='#9999FF',relief=GROOVE,command=lambda:play_game('scissors'))
 user_scissors_img.place(relx=0.71,rely=0.686)
+
+# showing other components on the screen
+sys_label = Label(root,text='COMPUTER',font=('Courier',15,'bold'),bg='#9999FF',fg='white')
+sys_label.place(relx=0.105,rely=0.03)
