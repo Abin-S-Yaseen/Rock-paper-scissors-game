@@ -135,3 +135,7 @@ user_label = Label(root,text='YOU',font=('Courier',15,'bold'),bg='#9999FF',fg='w
 user_label.place(relx=0.8,rely=0.03)
 score_head_label = Label(root,text='SCORE  BOARD',font=('Ubuntu',15),width=17,bg='white',relief=GROOVE)
 score_head_label.place(relx=0.391,rely=0.425)
+line = Label(root,text=('''
+                          |
+                          |
+                          |
