@@ -144,3 +144,4 @@ line = Label(root,text=('''
                           |
                           |
                           |
+          '''),bg='#9999FF')
