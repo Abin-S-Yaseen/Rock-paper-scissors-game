@@ -145,3 +145,4 @@ line = Label(root,text=('''
                           |
                           |
           '''),bg='#9999FF')
+line.place(relx=0.408,rely=0.47)
