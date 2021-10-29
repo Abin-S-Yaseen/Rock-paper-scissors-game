@@ -150,3 +150,4 @@ sys_score_label = Label(root,text="COMP:",font=('Courier',14),bg='white',relief=
 sys_score_label.place(relx=0.391,rely=0.5)
 user_score_label = Label(root,text='YOU: ',font=('Courier',14),bg='white',relief=GROOVE)
 user_score_label.place(relx=0.539,rely=0.5)
+sys_score_value = Label(root,text=0,font=('Ubuntu',15),width=5,bg='white',relief=GROOVE)
