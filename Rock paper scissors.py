@@ -154,3 +154,4 @@ sys_score_value = Label(root,text=0,font=('Ubuntu',15),width=5,bg='white',relief
 sys_score_value.place(relx=0.391,rely=0.57)
 user_score_value = Label(root,text=0,font=('Ubuntu',15),width=5,bg='white',relief=GROOVE)
 user_score_value.place(relx=0.539,rely=0.57)
+vs_label = Label(root,text='V/S',font=('helvetica',30),bg='#9999FF')
