@@ -156,3 +156,4 @@ user_score_value = Label(root,text=0,font=('Ubuntu',15),width=5,bg='white',relie
 user_score_value.place(relx=0.539,rely=0.57)
 vs_label = Label(root,text='V/S',font=('helvetica',30),bg='#9999FF')
 vs_label.place(relx=0.453,rely=0.25)
+
