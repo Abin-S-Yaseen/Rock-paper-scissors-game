@@ -158,3 +158,4 @@ vs_label = Label(root,text='V/S',font=('helvetica',30),bg='#9999FF')
 vs_label.place(relx=0.453,rely=0.25)
 
 
+# showing exit button on the screen
