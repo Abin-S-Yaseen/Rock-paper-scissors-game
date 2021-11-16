@@ -161,3 +161,4 @@ vs_label.place(relx=0.453,rely=0.25)
 # showing exit button on the screen
 exit_btn = Button(root,text='QUIT',font=('Ubuntu'),width=7,height=2,bg='red',fg='white',command=quit)
 exit_btn.place(relx=0.448,rely=0.8)
+
